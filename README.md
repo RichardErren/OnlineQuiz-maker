@@ -1,2 +1,3 @@
 # OnlineQuiz-maker
-Making an online quiz for sutdents
+First-year assignment in USYD, unit code INFO1110.
+This program allows students to complete an online exam. The exam can contain multiple-choice questions (single or multiple answers) and short answer questions (numerical or text). The user interface of the program is text-based. This is written in python programming language and starts off with the user writing their name and their student id. Then, the questions of the quiz will be displayed and the user will have to enter their answers. At the end of the test, the answers will be checked and the marks will be shown. Then when another user will run the code again, the questions and answer options will be randomised.
